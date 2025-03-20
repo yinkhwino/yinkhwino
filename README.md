@@ -2,7 +2,7 @@
 - 👀 I’m interested in networks 
 - 🌱 I’m currently learning Front End technologies 
 - 💞️ I’m looking to collaborate on Vue.js
-- 📫 How to reach me Twitch!
+- 📫 How to reach me Email!
 - 😄 Pronouns: Her
 - ⚡ Fun fact: Chic. cute,pretty,careful,calm,quiet,mature and encouraging
 
